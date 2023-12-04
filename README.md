@@ -4,4 +4,5 @@ building a basic recipe website using only HTML and the lessons learned
 through the TOP 'Foundations Course'.
 To be further improved in the future.
 
-Skills demonstrated: 
+Skills demonstrated: Html boiler plate, headings, images, ordered and unordered lists, list items, 
+anchors, git, commits, github.
